@@ -1,0 +1,15 @@
+$indigo:  #6610f2;
+$purple:  #6f42c1;
+$pink:    #d63384;
+.bg-purple {
+    background-color: $purple;
+}
+
+.posts {
+    max-height: 500px;
+    overflow-y: scroll;
+}
+.albums {
+    max-height: 325px;
+    overflow-y: scroll;
+}
